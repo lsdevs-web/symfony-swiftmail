@@ -1,0 +1,6 @@
+{
+  "build/css/global.css": "/build/css/global.css",
+  "build/js/global.js": "/build/js/global.js",
+  "build/runtime.js": "/build/runtime.js",
+  "build/vendors~js/global.js": "/build/vendors~js/global.js"
+}
